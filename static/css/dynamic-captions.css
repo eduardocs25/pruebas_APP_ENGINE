@@ -1,0 +1,255 @@
+.tp-caption.hgr-title-thin {
+font-size:55px;
+line-height:67px;
+font-weight:300;
+font-family:"Source Sans Pro";
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:transparent;
+text-shadow:none;
+margin:0px;
+white-space:nowrap;
+text-align:center;
+letter-spacing:-0.03em;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.hgr-title-large-white-boxed {
+font-size:21px;
+line-height:20px;
+font-weight:500;
+font-family:"source sans pro";
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:rgb(201, 23, 29);
+text-shadow:none;
+margin:5px;
+white-space:nowrap;
+letter-spacing:-0.03em;
+border-radius:2px 2px 2px 2px;
+border-width:10px;
+border-color:rgb(201, 23, 29);
+border-style:solid;
+}
+
+.tp-caption.hgr-button-Red {
+color:#ffffff;
+background-color:rgb(0, 0, 0);
+background-color:rgba(0, 0, 0, 0);
+font-size:16px;
+line-height:40px;
+font-weight:500;
+font-family:"Source Sans Pro";
+text-decoration:none;
+padding:0px 10px 0px 10px;
+text-shadow:none;
+display:block;
+cursor:pointer;
+border-radius:2px 2px 2px 2px;
+border-width:1px;
+border-color:rgb(255, 255, 255);
+border-style:solid;
+}
+
+.tp-caption.hgr-button-Red:hover {
+font-size:16px;
+line-height:40px;
+font-weight:500;
+font-family:"Source Sans Pro";
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:rgb(201, 23, 29);
+padding:0px 20px;
+text-shadow:none;
+display:block;
+cursor:pointer;
+border-width:0px;
+border-color:rgb(255, 255, 255);
+border-style:none;
+}
+
+.tp-caption.hgr-title-Test {
+font-size:44px;
+line-height:44px;
+font-weight:300;
+font-family:"Source Sans Pro";
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:transparent;
+text-shadow:none;
+margin:0px;
+white-space:nowrap;
+text-align:center;
+letter-spacing:-0.03em;
+border-width:0px;
+border-color:rgb(255, 255, 255);
+border-style:none;
+}
+
+.tp-caption.hgr-title-large-white-boxed-centered {
+font-size:21px;
+line-height:24px;
+font-weight:500;
+font-family:"source sans pro";
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:rgb(201, 23, 29);
+text-align:center;
+text-shadow:none;
+margin:5px;
+white-space:nowrap;
+letter-spacing:-0.03em;
+border-radius:2px 2px 2px 2px;
+border-width:10px;
+border-color:rgb(201, 23, 29);
+border-style:solid;
+}
+
+.tp-caption.hgr-title-thin-right {
+color:rgb(255, 255, 255);
+background-color:transparent;
+font-size:55px;
+line-height:67px;
+font-weight:300;
+font-family:"Source Sans Pro";
+text-decoration:none;
+text-shadow:none;
+margin:0px;
+white-space:nowrap;
+text-align:right;
+letter-spacing:-0.03em;
+border-width:0px;
+border-color:rgb(255, 255, 255);
+border-style:none;
+}
+
+.tp-caption.hgr-title-large-white-boxed-right {
+font-size:21px;
+line-height:24px;
+font-weight:500;
+font-family:"source sans pro";
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:rgb(201, 23, 29);
+text-align:right;
+text-shadow:none;
+margin:5px;
+white-space:nowrap;
+letter-spacing:-0.03em;
+border-radius:2px 2px 2px 2px;
+border-width:10px;
+border-color:rgb(201, 23, 29);
+border-style:solid;
+}
+
+.tp-caption.hgr-title-thin-red {
+font-size:55px;
+line-height:67px;
+font-weight:300;
+font-family:"Source Sans Pro";
+color:rgb(222, 25, 32);
+text-decoration:none;
+background-color:transparent;
+text-shadow:none;
+margin:0px;
+white-space:nowrap;
+text-align:center;
+letter-spacing:-0.03em;
+border-width:0px;
+border-color:rgb(222, 25, 32);
+border-style:none;
+}
+
+.tp-caption.hgr-title-large-white-gray-boxed {
+font-size:21px;
+line-height:20px;
+font-weight:500;
+font-family:"source sans pro";
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:rgb(52, 52, 52);
+text-shadow:none;
+margin:5px;
+white-space:nowrap;
+letter-spacing:-0.03em;
+border-radius:2px 2px 2px 2px;
+border-width:10px;
+border-color:rgb(52, 52, 52);
+border-style:solid;
+}
+
+.tp-caption.hgr-button-black {
+font-size:16px;
+line-height:40px;
+font-weight:500;
+font-family:"Source Sans Pro";
+color:rgb(52, 52, 52);
+text-decoration:none;
+background-color:rgb(255, 255, 255);
+background-color:rgba(255, 255, 255, 0.247059);
+padding:0px 10px;
+text-shadow:none;
+display:block;
+cursor:pointer;
+border-radius:2px 2px 2px 2px;
+border-width:1px;
+border-color:rgb(52, 52, 52);
+border-style:solid;
+}
+
+.tp-caption.hgr-button-black:hover {
+font-size:16px;
+line-height:40px;
+font-weight:500;
+font-family:"Source Sans Pro";
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:rgb(201, 23, 29);
+padding:0px 20px;
+text-shadow:none;
+display:block;
+cursor:pointer;
+border-width:0px;
+border-color:rgb(255, 255, 255);
+border-style:none;
+}
+
+.tp-caption.hgr-title-thin-red-left {
+font-size:55px;
+line-height:67px;
+font-weight:300;
+font-family:"Source Sans Pro";
+color:#de1920;
+text-decoration:none;
+background-color:transparent;
+text-shadow:none;
+margin:0px;
+white-space:nowrap;
+text-align:left;
+letter-spacing:-0.03em;
+border-width:0px;
+border-color:rgb(222, 25, 32);
+border-style:none;
+}
+
+.tp-caption.hgr-title-large-white-gray-boxed-centered {
+color:rgb(255, 255, 255);
+background-color:rgb(52, 52, 52);
+font-size:21px;
+line-height:30px;
+font-weight:500;
+font-family:"source sans pro";
+text-decoration:none;
+text-align:center;
+text-shadow:none;
+margin:5px;
+white-space:nowrap;
+letter-spacing:-0.03em;
+border-radius:2px 2px 2px 2px;
+border-width:10px;
+border-color:rgb(52, 52, 52);
+border-style:solid;
+}
+

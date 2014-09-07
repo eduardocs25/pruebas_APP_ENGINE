@@ -1,0 +1,132 @@
+.hgr_team_wrap ul {
+	width: auto;
+	display: table;
+}
+#teamTab li, #teamTab li a {
+	height: 80px;
+	line-height: 45px;
+}
+#teamTab > li.active > a, #teamTab > li.active > a:hover, #teamTab > li.active > a:focus {
+	background-color: transparent!important;
+	font-weight: bold;
+}
+#teamTab > li.active > a:after {
+	content: " ";
+	font-size: 4px;
+	vertical-align: top;
+	margin-left: 5px;
+}
+#teamTab > li > a {
+	background-color: transparent!important;
+	border: none!important;
+}
+#teamTab small {
+	font-style: italic;
+	font-size: 0.9em;
+	margin-top: -50px;
+	display: block;
+	margin-left: 15px;
+}
+.hgr_team_member small {
+	font-style: italic;
+	font-size: 0.9em;
+	margin-top: -4px;
+	display: block;
+	margin-bottom:8px;
+}
+.team_member_socials{
+	margin-bottom:10px;
+}
+
+.team_member_socials .icon {
+	font-size: 24px;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	text-align: left;
+}
+.hgr_skill {
+	width: 100%;
+	margin-bottom: 15px;
+}
+.hgr_skill h4 {
+	margin-top: 5px;
+	margin-right: 0;
+	margin-left: 0;
+	margin-bottom: 5px;
+	text-align: left!important;
+}
+.hgr_skill .hgr_skillfull {
+	height: 5px;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box
+}
+.hgr_skill .skillfill {
+	height: 5px;
+	font-size: 0;
+	width: 1%;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+	display: block;
+}
+.hgr_skill .hgr_skillfull {
+	background-color: #000
+}
+.hgr_skill .skillfill {
+	text-align: right;
+}
+.valuemarker {
+	background-color: #000;
+	width: 38px;
+	color: #FFF;
+	font-size: 11px;
+	text-align: center;
+	border-radius: 3px;
+	position: relative;
+	top: -29px;
+	float: right;
+	left: 18px;
+}
+.valuemarker:after {
+	top: 100%;
+	left: 50%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+	border-color: rgba(0, 0, 0, 0);
+	border-top-color: #000000;
+	border-width: 5px;
+	margin-left: -5px;
+}
+.team_nav_small{
+	float:right;
+}
+.team_nav_small .team_btn {
+	color: #fff;
+	text-align: center;
+	border-radius: 2px;
+	line-height: 9px;
+	padding:9px 12px;
+	display:inline-block;
+	margin-left:4px;
+	cursor:pointer;
+	padding:5px;
+}
+.team_nav_small .team_btn .icon {
+	margin-left:0;
+}
+.team_nav_small .team_left{
+}
+.team_nav_small .team_right{
+}
